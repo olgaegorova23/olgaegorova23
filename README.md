@@ -5,7 +5,7 @@
 Владею SQL на начальном уровне.
 
 На данный момент нахожусь в поиске работы.
-Готовы выполнить тестовое задание и пройти собеседование.
+Готова выполнить тестовое задание и пройти собеседование.
 На связи в Telegram https://t.me/ov_egorova23
 <!--
 **olgaegorova23/olgaegorova23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
